@@ -1,0 +1,119 @@
+.container2 {
+  background-image: linear-gradient(
+    #3c4cad,
+    #c24ca2,
+    #ff6d7d,
+    #ffb05d,
+    #f9f871
+  );
+  padding: 15px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.container2-child {
+  width: 32.5%;
+}
+
+.container36 {
+  width: 100%;
+}
+
+.post_container {
+  width: 100% !important ;
+  height: auto;
+  text-align: left;
+  padding: 8px;
+  background-color: #fff;
+  float: left;
+  margin: 6px;
+  padding: 10px;
+  overflow: hidden !important;
+}
+.post_container1 {
+  width: 100% !important ;
+  height: auto;
+  text-align: left;
+  padding: 8px;
+  background-color: #fff;
+  margin: 6px 0 1rem 0;
+  padding: 10px;
+  overflow: hidden !important;
+}
+
+.personProfile {
+  display: flex;
+  border-bottom: 1px solid #ccc;
+  margin: 5px;
+  margin-bottom: 7px;
+  padding-bottom: 10px;
+}
+
+.personProfile img {
+  width: auto;
+  height: 3.5vh;
+  border-radius: 20px;
+}
+.personProfile span {
+  display: block;
+  margin-left: 9px;
+  margin-top: -9px !important;
+  font-size: small;
+}
+.personProfile h6 {
+  margin-left: 9px;
+}
+
+.post_image {
+  border-bottom: 1px solid #ccc;
+  margin: 4px 0px;
+}
+.post_image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+p {
+  width: 100%;
+  margin-left: 1% !important;
+  overflow: hidden;
+}
+.postP p {
+  display: inline;
+  text-align: left !important;
+  color: #fff;
+  background-color: #ed2c6c !important;
+  font-size: 14px;
+  padding-right: 0.6em;
+  padding-left: 0.6em;
+  border-radius: 10rem;
+}
+
+.postLink span a {
+  color: rgba(161, 2, 2, 0.336) !important;
+}
+.postLikes {
+  border-bottom: 1px solid #ccc;
+  display: flex;
+}
+.postLikes i {
+  color: #007bff;
+}
+.postLikes p {
+  margin-left: 0 !important;
+}
+
+.post_link {
+  margin: 3px;
+}
+
+.post_link span {
+  display: block;
+  margin: 2px;
+}
+.post_link span a {
+  color: rgba(161, 2, 2, 0.336) !important;
+}
